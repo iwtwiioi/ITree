@@ -1,2 +1,2 @@
 # ITree
-A Geek TreeView Markdown Editor
+Moved to [xalanq/ITree](https://github.com/xalanq/ITree)
